@@ -2,7 +2,7 @@
 The coupon manager.
 
 ## Team
-Created as part of the Codeshatsra 8.0 Hackathon with the team:
+Created as part of the Codeshastra 8.0 Hackathon with the team:
 * [Jazib Dawre](https://github.com/jazibdawre)
 * [Jayesh Kavedia](https://github.com/jayeshkavedia)
 * [Jigar Shah](https://github.com/shahjigar556)
